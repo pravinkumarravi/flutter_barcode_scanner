@@ -22,7 +22,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    namespace 'com.primetecsol.advance_pdf_viewer'
+    namespace 'com.primetecsol.flutterbarcodescanner'
     compileSdkVersion 30
 
     defaultConfig {
